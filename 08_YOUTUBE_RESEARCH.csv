@@ -1,0 +1,2 @@
+video_id,title,url,channel,author,published_at,duration,transcript_available,relevant_timestamps,products_discussed,claims,claim_type,corroborating_official_source,corroboration_status,confidence,recommended_verification
+NOT_COLLECTED,Youtube evidence collection not yet completed,,UNKNOWN,UNKNOWN,,UNKNOWN,No,,OpenCode; Claude Code; MCP servers; AI APIs,No video-specific claims recorded yet,N/A,N/A,Not applicable,N/A,Crawl YouTube search and channel pages; capture video IDs, dates, durations, captions/transcripts, timestamps, and official-doc corroboration before adding rows.
